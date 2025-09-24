@@ -12,7 +12,7 @@ These aren't just academic experiments or proof-of-concepts - these are producti
 
 What makes these projects particularly noteworthy is how they address real-world pain points that every AI developer faces: fragmented tooling, deployment complexity, performance optimization, and the constant challenge of keeping up with rapidly evolving model capabilities. Each project in this list offers a unique solution to these challenges, and together, they're creating a more cohesive and powerful AI development ecosystem.
 
-![AI Open Source Ecosystem Overview](image.png)
+![AI Open Source Ecosystem Overview](image.png)(From: https://antoss-landscape.my.canva.site/)
 
 ## 1. Modular (MAX Platform)
 
